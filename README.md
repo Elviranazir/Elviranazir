@@ -1,11 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Elvira!</h1>
 <h3 align="center">SDET | Software Testing Engineer | Automation Specialist</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elviranazir&label=Profile%20views&color=0e75b6&style=flat" alt="elviranazir" /> </p>
+<img align="right" alt="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🔭 I’m currently working on MERSYS [https://test.mersys.io/](https://test.mersys.io/)
 
@@ -25,5 +22,3 @@ img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elviranazir&show_icons=true&locale=en&layout=compact" alt="elviranazir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elviranazir&show_icons=true&locale=en" alt="elviranazir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elviranazir&" alt="elviranazir" /></p>
